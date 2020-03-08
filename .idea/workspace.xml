@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c161cf53-90dc-4500-819f-d91627a65e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="258" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583649607864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583649607864" />
     <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1583649023515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
