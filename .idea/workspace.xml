@@ -81,10 +81,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="258" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583649607864" />
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1583650005673">
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1583650075667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583650005673" />
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583650075667" />
     <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1583649023515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -97,13 +97,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583648995225" />
+    <state x="284" y="132" key="Vcs.Push.Dialog.v2" timestamp="1583650137646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="132" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583650137646" />
     <state x="503" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583649996032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="503" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1583649996032" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583649018180">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583650133799">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583649018180" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583650133799" />
   </component>
 </project>

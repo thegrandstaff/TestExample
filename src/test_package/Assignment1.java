@@ -1,4 +1,6 @@
 package test_package;
 
-public class Assignment1 {
+public class Assignment1
+{
+
 }
